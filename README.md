@@ -2,7 +2,7 @@
 
 A theme built using Feathers 3.0.4 and Starling 2.0.1.
 
-## Images
+## Preview
 
 ![button](https://cloud.githubusercontent.com/assets/9284192/18558520/dd86049a-7b49-11e6-850f-4d9bcae7794e.png)
 ![alert](https://cloud.githubusercontent.com/assets/9284192/18558630/3df61b6c-7b4a-11e6-941a-104f234d4082.png)
